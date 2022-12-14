@@ -34,7 +34,7 @@ public class Day02_C4_Xpath {
         //login xpath locate et
         driver.findElement(By.xpath("(//input[@type='submit'])[3]")).click();
 
-        // log out'u xpath ile locate et
+        // log out'u xpath ile locate edin
         driver.findElement(By.xpath("//a[@class='signout']")).click();
     }
 
