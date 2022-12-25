@@ -1,4 +1,4 @@
-package com.arcane;
+package com.arcane.tests;
 
 
 import io.github.bonigarcia.wdm.WebDriverManager;

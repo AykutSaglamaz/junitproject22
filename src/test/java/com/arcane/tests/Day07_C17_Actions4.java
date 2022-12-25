@@ -1,4 +1,4 @@
-package com.arcane;
+package com.arcane.tests;
 
 import com.arcane.utilities.TestBase;
 import org.junit.Test;

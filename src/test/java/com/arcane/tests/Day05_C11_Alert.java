@@ -1,4 +1,4 @@
-package com.arcane;
+package com.arcane.tests;
 
 import com.github.javafaker.Faker;
 import io.github.bonigarcia.wdm.WebDriverManager;

@@ -1,4 +1,4 @@
-package com.arcane;
+package com.arcane.tests;
 
 import org.junit.*;
 
